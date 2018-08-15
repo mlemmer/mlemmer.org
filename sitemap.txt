@@ -1,0 +1,15 @@
+http://www.example.com/2018/08/introduction.html
+http://www.example.com/Tags.html
+http://www.example.com/Tables.html
+http://www.example.com/Snowman.html
+http://www.example.com/QuickReference.html
+http://www.example.com/Lists.html
+http://www.example.com/Links.html
+http://www.example.com/Images.html
+http://www.example.com/HowTo.html
+http://www.example.com/Export.html
+http://www.example.com/DocumentStructure.html
+http://www.example.com/Citations.html
+http://www.example.com/CV.html
+http://www.example.com/Basics.html
+http://www.example.com/About.html
